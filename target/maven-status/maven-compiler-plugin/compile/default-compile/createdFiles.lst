@@ -1,0 +1,4 @@
+com/whakahero/whakahero/WhakaheroApplication.class
+com/whakahero/whakahero/repository/UserRepository.class
+com/whakahero/whakahero/entity/User.class
+com/whakahero/whakahero/controller/UserController.class
